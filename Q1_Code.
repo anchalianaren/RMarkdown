@@ -1,3 +1,5 @@
+--Q1. What is the GDP per capita composition between diffrent countries ?
+
 attach(GDP)
 
 GDP %>%
